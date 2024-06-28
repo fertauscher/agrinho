@@ -9,6 +9,11 @@ h1{
 h2{
     color: black;
     text-align: center;
+} 
+ h6{
+        color: black;
+        text-align: center;
+        font-size: 18px;
 }
 header{
     background-color: rgb(163, 163, 163);
