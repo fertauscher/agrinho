@@ -1,13 +1,13 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(174, 223, 180);
     text-align: center;
 }
 h1{
-    color: rgb(141, 79, 8);
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 h2{
-    color: black;
+    color: rgb(255, 255, 255);
     text-align: center;
 } 
  h6{
@@ -16,7 +16,7 @@ h2{
         font-size: 18px;
 }
 header{
-    background-color: rgb(163, 163, 163);
+    background-color: rgb(3, 39, 11);
 }
 .pagina1{
     overflow: auto;
